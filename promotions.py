@@ -10,7 +10,7 @@ PROMOTIONS = {
 If you want to donate to keep this Uno bot active, please contact <a href="https://t.me/BukanDevelopers">amang</a>.
 """: 2.0,
     """
-Managed By <a href="https://t.me/BukanDevelopers">amang
+Managed By <a href="https://t.me/BukanDevelopers">amang</a>.
 """: 1.0,
 }
 
