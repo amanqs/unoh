@@ -143,7 +143,7 @@ msgid "Game ended!"
 msgstr "Permainan berakhir!"
 
 #: bot.py:201
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "Baiklah. Pemain berikutnya: {name}"
 
 #: bot.py:219
@@ -248,16 +248,16 @@ msgstr "Mohon menunggu {time} detik"
 #, python-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr ""
 "Waktu tunggu terhadap {name} telah dikurangi menjadi {time} detik.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 
 #: bot.py:424
 #, python-format
 msgid ""
 "{name1} was skipped four times in a row and has been removed from the game.\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1} telah dilewati dan tidak bermain empat kali berturut-turutdan telah "
 "dikeluarkan dari permainan.\n"
@@ -288,7 +288,7 @@ msgid "Cheat attempt by {name}"
 msgstr "Percobaan curang dilakukan oleh {name}"
 
 #: bot.py:562
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "Pemain berikutnya: {name}"
 
 #: bot.py:572

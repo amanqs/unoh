@@ -132,7 +132,7 @@ msgid "Game ended!"
 msgstr "Fim de jogo!"
 
 #: bot.py:201
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "Ok. Próximo(a) jogador(a): {name}"
 
 #: bot.py:219
@@ -232,10 +232,10 @@ msgstr[1] "Por favor, aguarde {time} segundos"
 #, python-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} second.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgid_plural ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr[0] ""
 "O tempo de espera para pular a vez deste(a) jogador(a) foi reduzido para {time} segundo.\n"
 "Próximo(a) jogador(a): {name}"
@@ -247,7 +247,7 @@ msgstr[1] ""
 #, python-format
 msgid ""
 "{name1} was skipped four times in a row and has been removed from the game.\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1} teve suas jogadas puladas quatro vezes seguidas e foi removido(a) do jogo.\n"
 "Próximo(a) jogador(a): {name2}"
@@ -276,7 +276,7 @@ msgid "Cheat attempt by {name}"
 msgstr "Tentativa de trapaça por {name}"
 
 #: bot.py:562
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "Próximo jogador: {name}"
 
 #: bot.py:572

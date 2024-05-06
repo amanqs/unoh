@@ -21,7 +21,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr ""
 "Bu oʻyinchini oʻtkazib yuborishni kutish vaqti {time} soniyagacha qisqartirildi.\n"
 "Keyingi oʻyinchi: {name}"
@@ -35,7 +35,7 @@ msgstr "{player} oʻtkazib yuborildi!"
 #, python-brace-format
 msgid ""
 "{name1} ran out of time and has been removed from the game!\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1}ning vaqti tugadi va oʻyindan olib tashlandi!\n"
 "Keyingi oʻyinchi: {name2}"
@@ -133,7 +133,7 @@ msgstr "Siz ushbu guruhdagi oʻyinda oʻynamayapsiz."
 
 #: bot.py:204 bot.py:274
 #, python-brace-format
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "Yaxshi. Keyingi oʻyinchi: {name}"
 
 #: bot.py:210
@@ -258,7 +258,7 @@ msgstr "{name} tomonidan firibgarlik urinishi"
 
 #: bot.py:697
 #, python-brace-format
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "Keyingi oʻyinchi: {name}"
 
 #: bot.py:709

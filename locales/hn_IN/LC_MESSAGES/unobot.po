@@ -135,7 +135,7 @@ msgid "Game ended!"
 msgstr " खेल ख़त्म हुआ!  "
 
 #: bot.py:201
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "Okay. अगला खिलाड़ी: {name}"
 
 #: bot.py:219
@@ -237,9 +237,9 @@ msgstr[1] "कृपया प्रतीक्षा करें {time} स�
 #: bot.py:413
 #, python-format
 msgid "Waiting time to skip this player has been reduced to {time} second.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgid_plural "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr[0] ""
 "वर्तमान खिलाड़ी को कूदने के लिए प्रतीक्षा समय कम हो गया है {time} "
 "सेकंड.\n"
@@ -253,7 +253,7 @@ msgstr[1] ""
 #, python-format
 msgid ""
 "{name1} was skipped four times in a row and has been removed from the game.\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1} उन्हें लगातार चार बार छोड़ दिया गया और खेल से हटा दिया गयाउन्हें लगातार चार बार छोड़ दिया गया और खेल से हटा दिया गया "
 "partida.\n"
@@ -284,7 +284,7 @@ msgid "Cheat attempt by {name}"
 msgstr "{name} से धोखा देने का प्रयास."
 
 #: bot.py:562
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "अगला खिलाड़ी: {name}."
 
 #: bot.py:572

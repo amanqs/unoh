@@ -49,7 +49,7 @@ def do_skip(bot, player, job_queue=None):
         send_async(bot, chat.id,
                    text=__("Waiting time to skip this player has "
                         "been reduced to {time} seconds.\n"
-                        "Next player: {name}", multi=game.translate)
+                        "Bajingan Berikutnya: {name}", multi=game.translate)
                    .format(time=n,
                            name=display_name(next_player.user))
         )
@@ -65,7 +65,7 @@ def do_skip(bot, player, job_queue=None):
             send_async(bot, chat.id,
                        text=__("{name1} ran out of time "
                             "and has been removed from the game!\n"
-                            "Next player: {name2}", multi=game.translate)
+                            "Bajingan Berikutnya: {name2}", multi=game.translate)
                        .format(name1=display_name(skipped_player.user),
                                name2=display_name(next_player.user)))
             logger.info("{player} was skipped! "

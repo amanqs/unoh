@@ -134,7 +134,7 @@ msgid "Game ended!"
 msgstr "കളി അവസാനിച്ചു!"
 
 #: bot.py:201
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "ശരി. അടുത്ത കളിക്കാരൻ: {name}"
 
 #: bot.py:219
@@ -241,10 +241,10 @@ msgstr[1] "{time} സെക്കൻഡ് വെയിറ്റ് ചെയ്
 #, python-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} second.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgid_plural ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr[0] ""
 "ഈ കളിക്കാരനെ ഒഴിവാക്കാനുള്ള സമയം {time} സെക്കൻഡായി ചുരുക്കി. \n"
 " \n"
@@ -257,7 +257,7 @@ msgstr[1] ""
 #, python-format
 msgid ""
 "{name1} was skipped four times in a row and has been removed from the game.\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1} ഗെയിമിൽ നിന്ന് തുടർച്ചയായി നാലു തവണ സ്കിപ്  ചെയ്യപ്പെട്ടത്തിനാൽ ഗെയിമിൽ നിന്ന് "
 "അയാളെ പുറത്താക്കി. \n"
@@ -288,7 +288,7 @@ msgid "Cheat attempt by {name}"
 msgstr "കള്ളകളി കളിക്കാനുള്ള ശ്രമം {name}"
 
 #: bot.py:562
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "അടുത്ത കളിക്കാരൻ : {name}"
 
 #: bot.py:572

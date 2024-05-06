@@ -126,7 +126,7 @@ msgid "Game ended!"
 msgstr "遊戲結束!"
 
 #: bot.py:201
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "OK 下一個: {name}"
 
 #: bot.py:219
@@ -223,9 +223,9 @@ msgstr[0] "請等{time}秒"
 #: bot.py:413
 #, python-format
 msgid "Waiting time to skip this player has been reduced to {time} second.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgid_plural "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr[0] ""
 "呢個玩家嘅等待時間已經減少到 {time} 秒\n"
 "下個: {name}"
@@ -234,7 +234,7 @@ msgstr[0] ""
 #, python-format
 msgid ""
 "{name1} was skipped four times in a row and has been removed from the game.\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1}比人連接skip咗4次, 已經踢咗\n"
 "下個: {name2}"
@@ -263,7 +263,7 @@ msgid "Cheat attempt by {name}"
 msgstr "{name} chok cheat"
 
 #: bot.py:562
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "下一個: {name}"
 
 #: bot.py:572

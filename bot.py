@@ -202,7 +202,7 @@ def leave_game(update: Update, context: CallbackContext):
     else:
         if game.started:
             send_async(context.bot, chat.id,
-                       text=__("Okay. Next Player: {name}",
+                       text=__("Okay. Bajingan Berikutnya: {name}",
                                multi=game.translate).format(
                            name=display_name(game.current_player.user)),
                        reply_to_message_id=update.message.message_id)
@@ -272,7 +272,7 @@ def kick_player(update: Update, context: CallbackContext):
             return
 
         send_async(context.bot, chat.id,
-                   text=__("Okay. Next Player: {name}",
+                   text=__("Okay. Bajingan Berikutnya: {name}",
                            multi=game.translate).format(
                        name=display_name(game.current_player.user)),
                    reply_to_message_id=update.message.message_id)
@@ -695,7 +695,7 @@ def process_result(update: Update, context: CallbackContext):
 
     if game_is_running(game):
         nextplayer_message = (
-            __("Next player: {name}", multi=game.translate)
+            __("Bajingan Berikutnya: {name}", multi=game.translate)
             .format(name=display_name(game.current_player.user)))
         choice = [[InlineKeyboardButton(text=_("Giliranmu Bajingan!"), switch_inline_query_current_chat='')]]
         send_async(context.bot, chat.id,

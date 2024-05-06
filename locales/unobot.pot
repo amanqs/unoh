@@ -21,7 +21,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr ""
 
 #: actions.py:54 actions.py:69
@@ -33,7 +33,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "{name1} ran out of time and has been removed from the game!\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 
 #: actions.py:76
@@ -126,7 +126,7 @@ msgstr ""
 
 #: bot.py:204 bot.py:274
 #, python-brace-format
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr ""
 
 #: bot.py:210
@@ -243,7 +243,7 @@ msgstr ""
 
 #: bot.py:697
 #, python-brace-format
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr ""
 
 #: bot.py:709

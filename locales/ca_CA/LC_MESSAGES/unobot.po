@@ -134,7 +134,7 @@ msgid "Game ended!"
 msgstr "Partida acabada!"
 
 #: bot.py:201
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "Okay. Següent jugagor: {name}"
 
 #: bot.py:219
@@ -235,9 +235,9 @@ msgstr[1] "Si us plau, espera {time} segons."
 #: bot.py:413
 #, python-format
 msgid "Waiting time to skip this player has been reduced to {time} second.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgid_plural "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr[0] ""
 "El temps d'espera per saltar aquest jugar s'ha reduit a {time} "
 "segon.\n"
@@ -251,7 +251,7 @@ msgstr[1] ""
 #, python-format
 msgid ""
 "{name1} was skipped four times in a row and has been removed from the game.\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "S'ha omès quatre vegades seguides {name1} i se l'ha eliminat de la "
 "partida.\n"
@@ -282,7 +282,7 @@ msgid "Cheat attempt by {name}"
 msgstr "{name} ha intentat fer trampes."
 
 #: bot.py:562
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "Següent jugador: {name}."
 
 #: bot.py:572

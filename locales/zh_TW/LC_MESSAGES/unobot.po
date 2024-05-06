@@ -32,7 +32,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr ""
 "跳過此玩家的等待時間已縮短至 {time} 秒。\n"
 "輪到: {name}"
@@ -46,7 +46,7 @@ msgstr "{player} 已被跳過! "
 #, python-brace-format
 msgid ""
 "{name1} ran out of time and has been removed from the game!\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1} 已逾時，且已將其從此場遊戲移除!\n"
 "輪到: {name2}"
@@ -143,7 +143,7 @@ msgstr "您不在此群組的遊戲中。"
 
 #: bot.py:204 bot.py:274
 #, python-brace-format
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "好的。下一位玩家: {name}"
 
 #: bot.py:210
@@ -264,7 +264,7 @@ msgstr "{name} 嘗試作弊。"
 
 #: bot.py:697
 #, python-brace-format
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "輪到: {name}"
 
 #: bot.py:709

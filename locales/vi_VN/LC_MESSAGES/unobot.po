@@ -21,7 +21,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr ""
 "Thời gian chờ để bỏ qua người chơi này đã giảm xuống còn {time} giây.\n"
 "Người chơi tiếp theo: {name}"
@@ -35,7 +35,7 @@ msgstr "{player} đã bị bỏ qua! "
 #, python-brace-format
 msgid ""
 "{name1} ran out of time and has been removed from the game!\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr ""
 "{name1} đã hết thời gian và đã bị xóa khỏi trò chơi!\n"
 "Người chơi tiếp theo: {name2}"
@@ -136,7 +136,7 @@ msgstr "Bạn không chơi trong một trò chơi trong nhóm này."
 
 #: bot.py:204 bot.py:274
 #, python-brace-format
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "Được rồi. Người chơi tiếp theo: {name}"
 
 #: bot.py:210
@@ -259,7 +259,7 @@ msgstr "Lỗ lực gian lận bởi {name}"
 
 #: bot.py:697
 #, python-brace-format
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "Người chơi tiếp theo: {name}"
 
 #: bot.py:709

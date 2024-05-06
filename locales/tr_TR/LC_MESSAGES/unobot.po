@@ -21,7 +21,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "Waiting time to skip this player has been reduced to {time} seconds.\n"
-"Next player: {name}"
+"Bajingan Berikutnya: {name}"
 msgstr "Bu oyuncuyu atlamak için gereken süre {time} saniyeye düşürüldü.\n"
 "Sıradaki oyuncu: {name}"
 
@@ -34,7 +34,7 @@ msgstr "{player} turu pas geçti!"
 #, python-brace-format
 msgid ""
 "{name1} ran out of time and has been removed from the game!\n"
-"Next player: {name2}"
+"Bajingan Berikutnya: {name2}"
 msgstr "{name1}’ın süresi doldu ve oyundan çıkarıldı!\n"
 "Sıradaki oyuncu: {name2}"
 
@@ -130,7 +130,7 @@ msgstr "Bu gruptaki bir oyunda yoksunuz."
 
 #: bot.py:204 bot.py:274
 #, python-brace-format
-msgid "Okay. Next Player: {name}"
+msgid "Okay. Bajingan Berikutnya: {name}"
 msgstr "Pekala. Sıradaki Oyuncu: {name}"
 
 #: bot.py:210
@@ -249,7 +249,7 @@ msgstr "{name}, hile yapmaya çalıştı!"
 
 #: bot.py:697
 #, python-brace-format
-msgid "Next player: {name}"
+msgid "Bajingan Berikutnya: {name}"
 msgstr "Sıradaki oyuncu: {name}"
 
 #: bot.py:709
