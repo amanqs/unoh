@@ -375,7 +375,7 @@ def start_game(update: Update, context: CallbackContext):
 
             for player in game.players:
                 player.draw_first_hand()
-            choice = [[InlineKeyboardButton(text=_("Make your choice!"), switch_inline_query_current_chat='')]]
+            choice = [[InlineKeyboardButton(text=_("Giliranmu Bajingan!"), switch_inline_query_current_chat='')]]
             first_message = (
                 __("First player: {name}\n"
                    "Use /close to stop people from joining the game.\n"
@@ -697,7 +697,7 @@ def process_result(update: Update, context: CallbackContext):
         nextplayer_message = (
             __("Next player: {name}", multi=game.translate)
             .format(name=display_name(game.current_player.user)))
-        choice = [[InlineKeyboardButton(text=_("Make your choice!"), switch_inline_query_current_chat='')]]
+        choice = [[InlineKeyboardButton(text=_("Giliranmu Bajingan!"), switch_inline_query_current_chat='')]]
         send_async(context.bot, chat.id,
                         text=nextplayer_message,
                         reply_markup=InlineKeyboardMarkup(choice))
